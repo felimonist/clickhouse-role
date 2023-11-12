@@ -1,2 +1,5 @@
 ---
-# vars file for clickhouse-role
+clickhouse_amd64_packages:
+  - clickhouse-client
+  - clickhouse-server
+  - clickhouse-common-static
